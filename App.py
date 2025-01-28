@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 
 # Title of the app
-st.title("Welcome To AB GROUP")
 st.title("Stock Price Analysis App")
 
 # Sidebar for user input
